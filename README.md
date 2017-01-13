@@ -9,12 +9,12 @@ This project contains the sources of my Bartop:
 
 ## Photo preview
 
-![Homepage](/photos/bartop_2_players_with_raspberry_pi.jpg?raw=true "Homepage")
+![Preview](/photos/bartop_2_players_with_raspberry_pi.jpg?raw=true "Preview")
 
 ## Dimensions preview
 
-![Cabinet](/photos/cabinet.png?raw=true "Homepage")
-![Control Panel](/photos/control_panel.png?raw=true "Homepage")
+![Cabinet](/photos/cabinet.png?raw=true "Cabinet")
+![Control Panel](/photos/control_panel.png?raw=true "Control Panel")
 
 ## More
 
