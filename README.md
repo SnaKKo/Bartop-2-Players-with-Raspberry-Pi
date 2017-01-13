@@ -17,6 +17,11 @@ This project contains the sources of my Bartop:
 ![Cabinet](/photos/cabinet.png?raw=true "Cabinet")
 ![Control Panel](/photos/control_panel.png?raw=true "Control Panel")
 
+## Sources
+
+* [Cabinet](/src/cabinet.layout) - Made with Google SketchUp ([PDF](/src/cabinet.pdf))
+* [Control Panel](/src/control_panel.ai) - Made with Adobe Illustrator
+
 ## More
 
 [Come ho costruito un Bartop Arcade (Italian)](https://melodycode.com/life/come-ho-costruito-un-bartop-arcade.html)
