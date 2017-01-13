@@ -19,8 +19,8 @@ This project contains the sources of my Bartop:
 
 ## Sources
 
-* [Cabinet](/src/cabinet.layout) - Made with Google SketchUp ([PDF](/src/cabinet.pdf))
-* [Control Panel](/src/control_panel.ai) - Made with Adobe Illustrator
+* [Cabinet](/src/cabinet.layout?raw=true) - Made with Google SketchUp ([PDF](/src/cabinet.pdf?raw=true))
+* [Control Panel](/src/control_panel.ai?raw=true) - Made with Adobe Illustrator
 
 ## More
 
