@@ -4,8 +4,9 @@ This project contains the sources of my Bartop:
 
 * 2 Players
 * 17" LCD monitor 
-* Powered by Raspberry Pi
+* Marquee with LED lights
 * Stereo speakers
+* Powered by Raspberry Pi
 
 ## Photo preview
 
