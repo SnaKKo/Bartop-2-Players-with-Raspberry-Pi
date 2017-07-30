@@ -24,7 +24,8 @@ This project contains the sources of my Bartop:
 
 ## More
 
-[Come ho costruito un Bartop Arcade (Italian)](https://melodycode.com/life/come-ho-costruito-un-bartop-arcade.html)
+* [How I made a Bartop Arcade (English)](https://melodycode.com/life/how-i-made-a-bartop-arcade.html)
+* [Come ho costruito un Bartop Arcade (Italian)](https://melodycode.com/life/come-ho-costruito-un-bartop-arcade.html)
 
 ## Authors
 
